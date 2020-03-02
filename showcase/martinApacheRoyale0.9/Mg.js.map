@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Mg.js",
+"lineCount":206,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAcyB,qCAAjB,WAAsC,CAAC,C,CAAO,C;EAC1C,IAAS,+CAAL,KAAS,GAAG,IAAI,+BAAG,CAAC,CAAC,C;EACzB,KAAK,CAAC,KAAK,CAAC,IAAI,CAAC,C;AACrB,C;;;;;;;;;EAbgB,KAAA,wBAAqB,CAAA;",
+"sources":["../../src/Mg.mxml"],
+"names":[]
+}

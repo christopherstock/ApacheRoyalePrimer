@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Setting.js",
+"lineCount":201,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAQgC,8CAAwC,GAAc,IAAI,C;;;;;;;;AAG1D,6CAAuC,GAC3D,6DAA6D,C;;;;;;;;AAIzC,mDAAuC,GAAe,IAAI,C;;;;;;;;AAG1D,gDAAuC,GAAe,IAAI,C;;;;;;;;AAE1D,iDAAuC,GAAe,GAAG,C;;;;;;;;AAGzD,mDAAuC,GAAe,SAAS,C;;;;;;;;AAE/D,iDAAuC,GAAe,SAAS,C;;;;;;;;AAE/D,sDAAuC,GAAe,SAAS,C;;;;;;;;AAE/D,sDAAuC,GAAe,SAAS,C;;;;;;;;AAE/D,qDAAuC,GAAe,SAAS,C;;;;;;;;AAE/D,qDAAuC,GAAe,SAAS,C;;;;;;;;AAG/D,qDAAuC,GAAe,EAAE,C;;;;;;;;AAExD,iEAAuC,GAAe,EAAE,C;;;;;;;;AAGxD,+DAAuC,GAAe,CAAC,C;;;;;;;;AAEvD,+DAAuC,GAAe,EAAE,C;;;;;;;;AAExD,yDAAuC,GAAe,GAAG,C;;;;;;;;AAEzD,2DAAuC,GAAe,GAAG,C;;;;;;;;AAEzD,wDAAuC,GAAe,EAAE,C;;;;;;;;AAExD,wDAAuC,GAAe,EAAE,C;;;;;;;;AAExD,4DAAuC,GAAe,EAAE,C;;;;;;;;AAExD,6DAAuC,GAAe,CAAC,C;;;;;;;;AAGvD,0DAAuC,GAAe,CAAA;",
+"sources":["../../../../../../src/de/mayflower/royaleMvp/base/Setting.as"],
+"names":[]
+}

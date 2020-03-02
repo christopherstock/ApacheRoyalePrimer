@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ImageResource.js",
+"lineCount":41,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAQ4B,wDAAuB,GAAG,CAC1C,mCAAmC,EACnC,0BAA0B,EAC1B,gCACJ,CAAC,C;;;;;;;;AAEmB,sDAAqB,GAAG,CACxC,mBAAmB,EACnB,kBAAkB,EAClB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,kBAAkB,EAClB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,kBAAkB,EAClB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,iBAAiB,EACjB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBAAmB,EACnB,mBACJ,CAAA;",
+"sources":["../../../../../../src/de/mayflower/royaleMvp/io/ImageResource.as"],
+"names":[]
+}
