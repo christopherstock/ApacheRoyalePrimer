@@ -18,9 +18,9 @@ This is an excursion with the Apache Royale SDK 0.9.6.
 
 ## Showcases
 
-| Project                             | Technology                   | Showcase URL                                                                                    |
-| ----------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------- |
-| Fotografie Martin Gehrig            | Adobe Flash Professional CS6 | https://christopherstock.github.io/ApacheRoyalePrimer/showcase/martinAdobeFlashCS6/index.html   |
-| Produzentengalerie Art-Fleckenstein | Apache Flex 4.6              | https://christopherstock.github.io/ApacheRoyalePrimer/showcase/sabineAdobeFlex4.6/index.html    |
-| Produzentengalerie Art-Fleckenstein | Apache Flex 4.16             | https://christopherstock.github.io/ApacheRoyalePrimer/showcase/sabineAdobeFlex4.16/index.html   |
-| Fotografie Martin Gehrig            | Apache Royale 0.9.6          | https://christopherstock.github.io/ApacheRoyalePrimer/showcase/martinApacheRoyale0.9/index.html |
+| Project                             | Technology                   | Showcase Link                                                                                               |
+| ----------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Fotografie Martin Gehrig            | Adobe Flash Professional CS6 | [Showcase](https://christopherstock.github.io/ApacheRoyalePrimer/showcase/martinAdobeFlashCS6/index.html)   |
+| Produzentengalerie Art-Fleckenstein | Apache Flex 4.6              | [Showcase](https://christopherstock.github.io/ApacheRoyalePrimer/showcase/sabineAdobeFlex4.6/index.html)    |
+| Produzentengalerie Art-Fleckenstein | Apache Flex 4.16             | [Showcase](https://christopherstock.github.io/ApacheRoyalePrimer/showcase/sabineAdobeFlex4.16/index.html)   |
+| Fotografie Martin Gehrig            | Apache Royale 0.9.6          | [Showcase](https://christopherstock.github.io/ApacheRoyalePrimer/showcase/martinApacheRoyale0.9/index.html) |
