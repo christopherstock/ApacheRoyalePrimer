@@ -1,0 +1,1 @@
+&desc1="im Hofgarten der Residenz<br>Würzburg"&desc2=""&desc3="Nadja und Tim<br>Berlin"&desc4=""&desc5="Katharina und Markus"&desc6="Nadja"&desc7="Christina und Thomas"&desc8="Katharina und Markus"&desc9="Hochzeitsgäste<br>Aachen"&anzahl=9
