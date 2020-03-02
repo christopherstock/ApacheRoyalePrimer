@@ -1,0 +1,49 @@
+
+Hallo Frau Tramm,
+
+ich hab mit meinen Kollegen, vertraut mit Flash und Adobe Flex, den
+Bildeditor detaillierter angesehen.
+
+Die gute Nachricht: das Projekt, das aus ca. 50.000 Zeilen Code
+besteht, baut noch, man wäre in der Lage Anpassungen umzusetzen, um ein
+neues SWF zu erstellen.
+
+Die Schlechten Nachrichten:
+
+1. Eine Emulation mit bekannten, kostenlosen Tools ist leider nicht
+möglich. Ob durch Anpassungen im Code, man ein SWF erstellen kann,
+dass in einen Emulator läufig ist, ist denkbar, aber die Aufwände nicht
+kalkulierbar.
+
+2. Für Adobe Flex, das verwendete SDK, gibt es kein Verfahren, dass
+out-of-the-box die Anwendung statt nach SWF, nach HTML5 compiliert.
+Das liegt an den vielen (Binär-) Abhängigkeiten zu weiteren Flash-
+Bibliotheken. Eine Portierung zu Nachfolgeprojekten, wie Apache Flex
+und Apache Royale, ist entsprechend aufwändig, da (massive) Änderungen
+ind er API berücksichtigt werden müssen und für die Binär-Bibliotheken
+ein Ersatz gefunden werden muss. Zum Teil sind die Repositories von
+denen die Libraries bezogen wurden, nicht mehr online.
+Die Aufwände für die Portierung zu Apache Royale sind hoch, der Umfang
+beträgt mehrere Personen-Monate.
+An der Stelle wäre man Schneller, den Image Editor neu zu schreiben,
+mit aktuellen Tech-Stack und unterstützten Frameworks.
+
+
+Da es für den ImageEditor kein Wunderheilmittel gibt, um ihn nach der
+Anschaltung von Flash bei der MAN, in der aktuellen Form weiter zu
+betreiben, ist die Frage ob man noch in die Flash-Weiche für MS Edge
+investieren sollte.
+Und dann ist die Frage, was passieren soll mit dem ImageEditor, wenn
+MANOffice nach dem Flash-EOL immer noch im Betrieb ist: Ausnahmeregel
+für Flash, anderer Prozess um die Bilder im MANOffice zu bearbeiten,
+z.B. mit externen Tools,...
+
+Es tut mir leid, dass ich ihnen keine besseren Nachrichten überbringen
+kann.
+
+Falls sie für die Portierung / Neuentwicklung des ImageEditor ein
+Angebot brauchen, lassen sie es mich wissen.
+
+Mit freundlichen Grüßen,
+
+Jürgen Lesny
