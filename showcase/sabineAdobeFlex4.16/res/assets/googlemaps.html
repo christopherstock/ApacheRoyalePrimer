@@ -1,0 +1,51 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<!-- full size for html -->
+<html style="width: 100%; height: 100%;">
+
+    <head>
+    
+        <!-- title caption -->
+        <title>Galerie art-Fleckenstein</title>
+
+        <!-- resize window -->
+        <script type="text/javascript">
+        
+	        self.resizeTo( 800, 600 );
+	        self.moveTo( ( screen.width - 800 ) / 2, ( screen.height - 600 ) / 2 );
+	        self.focus();
+        
+        </script>
+        
+        <!-- import google js -->
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+        
+    </head>
+    
+    <body style="margin: 0px; width: 100%; height: 100%;">
+    
+        <div  style="overflow: hidden; width: 100%; height: 100%;">
+            <div id="map_canvas" style="width: 100%; height: 100%;"></div>
+        </div>
+        
+        <script type="text/javascript">
+        
+            //call function in 300 ms
+            window.setTimeout( "initGmaps();", 300 );
+            
+            function initGmaps()
+            {
+                var myOptions = { zoom: 15, center: new google.maps.LatLng( 53.216305, 8.935158 ), mapTypeId: google.maps.MapTypeId.ROADMAP };
+                map = new google.maps.Map( document.getElementById( "map_canvas" ), myOptions );
+                marker = new google.maps.Marker( { map: map, position: new google.maps.LatLng( 53.216305, 8.935158 ) } );
+                infowindow = new google.maps.InfoWindow( { content: "<p style='font-family: arial;'><b>Galerie art-Fleckenstein</b><br>Ostendorfer Str. 31<br>27726 Worpswede</p>" } );
+                google.maps.event.addListener( marker, "click", function(){ infowindow.open( map, marker ); } );
+                infowindow.open( map, marker );
+            }
+        
+        </script>    
+    
+    </body>
+
+</html>
