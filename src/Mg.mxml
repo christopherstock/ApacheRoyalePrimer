@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<js:Application
+    xmlns:fx="http://ns.adobe.com/mxml/2009"
+    xmlns:js="library://ns.apache.org/royale/express"
+    applicationComplete="onApplicationComplete()"
+>
+
+    <fx:Script>
+
+        import de.mayflower.royaleMvp.base.App;
+
+        /***************************************************************************************************************
+         *   Being invoked when the application has completed loading.
+         ***************************************************************************************************************/
+        private function onApplicationComplete():void {
+            var mgApp:App = new App();
+            mgApp.start(this);
+        }
+
+    </fx:Script>
+
+</js:Application>

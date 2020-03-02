@@ -1,0 +1,10 @@
+
+# JetBrains IDEs
+/.idea
+*.iml
+
+# VS Code
+/.vscode
+
+# Build Output
+/bin
