@@ -8,7 +8,13 @@ This is an excursion with the Apache Royale SDK 0.9.6.
 
 ## Tech Stack
 
+- Adobe Flash Player 32.0
+- Adobe Air 32.0
+- JDK 1.8.0
+- ActionScript 3.0
 - Apache Royale SDK 0.9.6
+  - royale-asjs compiler v. 4.14.1
+- Apache Flex SDK 4.16.1
 - Visual Studio Code 1.42.1
 - Plugins for Visual Studio Code:
   - ActionScript & MXML 1.0.0  
